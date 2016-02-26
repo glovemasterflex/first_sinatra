@@ -1,0 +1,111 @@
+body {
+  background-color: #243250;
+  text-align: center;
+  font-family: helvetica;
+}
+
+h1 {
+  color: #F6CE39;
+  font-family: Brush Script MT, cursive;
+  font-size: 90px;
+  font-weight: lighter;
+  margin-bottom: 0;
+}
+
+h2 {
+  color: #98A8C9;
+  text-align: center;
+  font-family: Brush Script MT, cursive;
+  font-weight: lighter;
+  font-style: oblique;
+  font-size: 50px;
+  margin-top: 0;
+}
+
+h3 {
+  font-size: 50px;
+  color: #F6CE39;
+  font-weight: 100;
+  font-family: Brush Script MT, cursive;
+  margin: 50px 250px 10px 250px;
+}
+
+h4 {
+  font-family: helvetica;
+  font-weight: 200;
+  font-style: italic;
+  font-size: 25px;
+  margin-bottom: 3px;
+  color: #4B5363;
+  text-shadow: 1.5px 1.5px 1.5px white;
+
+}
+
+p {
+  color: #C0D4FF;
+  font-size: 20px;
+  font-weight: 100;
+  margin: auto 250px;
+}
+
+.end {
+  margin-bottom: 500px;
+}
+
+/*
+========================
+NAV
+========================
+*/
+
+.navcontainer {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  margin: auto 250px;
+}
+
+.navcontainer ul li {
+  display: inline;
+}
+
+.navcontainer ul li a {
+  text-decoration: none;
+  padding: .2em 1em;
+  color: #fff;
+}
+
+.navcontainer ul li a:hover {
+  color: gold;
+  background-color: #369;
+}
+
+/*
+===========================
+Resume
+===========================
+*/
+.workx {
+    list-style-type: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
